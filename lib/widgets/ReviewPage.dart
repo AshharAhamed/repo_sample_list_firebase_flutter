@@ -143,7 +143,7 @@ Widget _buildListItem(BuildContext context, DocumentSnapshot data) {
             ),
 
           ],
-        )*/CircleAvatar(backgroundImage: AssetImage("assets/images/image_10.png") /*NetworkImage(record.imageURL)*/),
+        )*/CircleAvatar(backgroundImage: AssetImage(record.imageURL/*"assets/images/image_10.png"*/) /*NetworkImage(record.imageURL)*/),
         subtitle: Padding(
           padding: const EdgeInsets.only(bottom: 16.0),
           child: Text(
