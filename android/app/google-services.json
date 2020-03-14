@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1085347446610",
+    "firebase_url": "https://ctseappdb-caa01.firebaseio.com",
+    "project_id": "ctseappdb-caa01",
+    "storage_bucket": "ctseappdb-caa01.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1085347446610:android:0098e958a1b1d6f8a3048b",
+        "android_client_info": {
+          "package_name": "com.neotech.dynamic_reveiw_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1085347446610-rbtntknnmcs3473p07ksk0fajb8d8d0r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyARHJmNYGuTt_WX2sS8oyrJFLyRYfO87BA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1085347446610-rbtntknnmcs3473p07ksk0fajb8d8d0r.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
